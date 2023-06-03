@@ -1,0 +1,41 @@
+@media only screen and (max-width: 600px) {
+    .bannerTitle{
+        padding-left: 10px !important;
+        font-size: 30px !important;
+    }
+    .bannerBox{
+        padding-left: 10px !important;
+    }
+    .bannerDesc{
+        font-size: 20px !important;
+    }
+    .bannerDesc img{
+        width: 18px !important;
+        height: 18px !important;
+    }
+    .coinBag{
+        width: 98px !important;
+        height: 98px !important;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .bannerTitle{
+        padding-left: 15px !important;
+        font-size: 45px !important;
+    }
+    .bannerBox{
+        padding-left: 15px !important;
+    }
+    .bannerDesc{
+        font-size: 28px !important;
+    }
+    .bannerDesc img{
+        width: 28px !important;
+        height: 28px !important;
+    }
+    .coinBag{
+        width: 148px !important;
+        height: 148px !important;
+    }
+}
