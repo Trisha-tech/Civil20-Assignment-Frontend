@@ -1,70 +1,96 @@
-# Getting Started with Create React App
+# Civil20-Assignment-Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+The task is to create view as per given screenshot (attached):
 
-### `npm start`
+1. Data for representation will come via api of a backend application
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2. Use dummy data for representation
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![IMG_20230413_203811](https://github.com/Trisha-tech/Civil20-Assignment-Backend/assets/55338588/c5af760f-e1e1-4a73-a79a-eff3fe9312f4)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**DEPLOYED LINK:**  https://civil20-frontend.onrender.com/
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📌 Tech Stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.linkedin.com/)
+[![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://katherineoelsner.com/)
+[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.w3schools.com/js)
+[![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://www.linkedin.com/)
+[![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com)
+[![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 💥How To Run ?
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Create a folder at your desired location (usually at your desktop).
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2. Open Git Bash Here.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+3. Create a Git repository.
 
-## Learn More
+Run command ```git init```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+4. Fork this [Repository](https://github.com/Trisha-tech/Civil20-Assignment-Frontend).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+5. Clone the forked repository in your local system.
 
-### Code Splitting
+```bash
+git clone https://github.com/<your_github_username>/Civil20-Assignment-Frontend
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+6. To run the Frontend part, follow these steps:
+   
+   a. Go to Frontend directory: 
+   ```bash
+   cd frontend
+   ```
+   
+   b. Install NodeJS modules
+   ```bash
+   npm install
+   ```
+   
+   c. Start the development server
+    ```bash
+   npm start
+   ```
+   
+   d. This will start developement server at localhost:3000
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+## 📸 Screenshot
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+**USER INTERFACE (UI)**
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![React App - Google Chrome 6_3_2023 9_41_04 PM](https://github.com/Trisha-tech/Civil20-Assignment-Backend/assets/55338588/66264df8-d733-48f0-ab1c-4f37ee2b1659)
+![React App - Google Chrome 6_3_2023 9_41_16 PM](https://github.com/Trisha-tech/Civil20-Assignment-Backend/assets/55338588/03a2cadd-2fb4-4382-984c-7baa7ee01a05)
+
+
+![React App - Google Chrome 6_3_2023 9_42_05 PM](https://github.com/Trisha-tech/Civil20-Assignment-Backend/assets/55338588/803ec806-a264-4401-9e74-4d5bcae617fd)
+![React App - Google Chrome 6_3_2023 9_42_11 PM](https://github.com/Trisha-tech/Civil20-Assignment-Backend/assets/55338588/d82ac4d9-992e-4c3a-be1e-397451d9b7a3)
+
+
+
+![React App - Google Chrome 6_3_2023 9_42_42 PM](https://github.com/Trisha-tech/Civil20-Assignment-Backend/assets/55338588/72bad0d5-a79d-49b3-adac-806ecb4847fd)
+![React App - Google Chrome 6_3_2023 9_43_01 PM](https://github.com/Trisha-tech/Civil20-Assignment-Backend/assets/55338588/c0032f42-2780-4cd1-9cdd-ead99352af55)
+![React App - Google Chrome 6_3_2023 9_43_05 PM](https://github.com/Trisha-tech/Civil20-Assignment-Backend/assets/55338588/2392db73-20cd-474b-aaa7-fcd538e8ddd3)
+
+
+![React App - Google Chrome 6_3_2023 9_43_29 PM](https://github.com/Trisha-tech/Civil20-Assignment-Backend/assets/55338588/ff9a410d-085f-46f5-94d4-306af79e7ef9)
+![React App - Google Chrome 6_3_2023 9_43_35 PM](https://github.com/Trisha-tech/Civil20-Assignment-Backend/assets/55338588/56b94f90-8301-4fc4-9d71-48cedee57c34)
+
+
+
+💙 Thank You !!! 💙
