@@ -2,3 +2,9 @@ ul li {
     border-radius: 50%;
 
 }
+
+@media only screen and (max-width: 600px) {
+    .heading{
+        font-size: 34px !important;
+    }
+}

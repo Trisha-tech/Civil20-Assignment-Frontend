@@ -5,6 +5,7 @@ import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import Typography from '@mui/material/Typography';
 import { Box } from "@mui/material";
+import './AllListTabs.css';
 
 const TopMovers = () => {
     var settings = {
@@ -60,7 +61,7 @@ const TopMovers = () => {
 
     return (
         <Box>
-            <Typography variant="h3" style={{ margin: "60px", fontWeight: 700 }}>Top Movers</Typography>
+            <Typography className="heading" variant="h3" style={{ margin: "4%", fontWeight: 700 }}>Top Movers</Typography>
 
             <Slider {...settings} style={{ margin: "2%" }}>
                 {players.map(player => (

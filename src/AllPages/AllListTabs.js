@@ -29,7 +29,7 @@ function AllListTabs() {
 
     return (
         <Box>
-            <Typography variant="h3" style={{ margin: "4%", fontWeight: 700 }}>All Lists</Typography>
+            <Typography className='heading' variant="h3" style={{ margin: "4%", fontWeight: 700 }}>All Lists</Typography>
             <Tabs
                 defaultActiveKey="profile"
                 id="uncontrolled-tab-example"
