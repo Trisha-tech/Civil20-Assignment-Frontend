@@ -74,6 +74,10 @@ git clone https://github.com/<your_github_username>/Civil20-Assignment-Frontend
 **USER INTERFACE (UI)**
 
 
+![screenshot-civil20-frontend onrender com-2023 06 03-21_39_27](https://github.com/Trisha-tech/Civil20-Assignment-Frontend/assets/55338588/c735afca-b2f6-41ed-ade4-e5f83901e934)
+
+
+
 ![React App - Google Chrome 6_3_2023 9_41_04 PM](https://github.com/Trisha-tech/Civil20-Assignment-Backend/assets/55338588/66264df8-d733-48f0-ab1c-4f37ee2b1659)
 ![React App - Google Chrome 6_3_2023 9_41_16 PM](https://github.com/Trisha-tech/Civil20-Assignment-Backend/assets/55338588/03a2cadd-2fb4-4382-984c-7baa7ee01a05)
 
